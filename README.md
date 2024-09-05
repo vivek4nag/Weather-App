@@ -2,6 +2,9 @@
 
 A simple weather checking app built using **HTML**, **CSS**, and **JavaScript**, which allows users to check the current weather of any city using the **OpenWeatherMap API**.
 
+## TRY IT NOW 😊
+[CLICK HERE](https://vivek4nag.github.io/Weather-App/) 
+
 ## Features
 
 - Displays current temperature, city name, humidity, and wind speed.
