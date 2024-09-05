@@ -68,6 +68,8 @@ body{
 
 .search button img{
     width: 16px;
+    height: 16px;
+    object-fit: contain;
 }
 
 .weather-icon{
