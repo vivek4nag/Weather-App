@@ -10,7 +10,7 @@ A simple weather checking app built using **HTML**, **CSS**, and **JavaScript**,
 - Displays current temperature, city name, humidity, and wind speed.
 - Updates the weather icon based on the current weather conditions.
 - Provides an error message if the city name is invalid or not found.
-- Responsive design with a colorful animated background.
+- A colorful animated background.
 - Clean and intuitive user interface using modern CSS.
 
 ## Tech Stack
